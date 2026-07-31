@@ -2,9 +2,10 @@ import json
 import os
 import random
 import math
+from pathlib import Path
 
 # File name for persistent storage
-DB_FILE = "akinator_prob_db.json"
+DB_FILE = str(Path(__file__).resolve().parent) + "/akinator_prob_db.json"
 
 # Internal bookkeeping keys that are NOT questions (excluded from question extraction)
 META_KEYS = {"name", "_n"}
