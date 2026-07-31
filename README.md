@@ -30,3 +30,6 @@ O(N(L + Q + K(Q + K) + K) + N log N + QT)
 
 Dominant Total Complexity
 O(NQ)
+
+Admin Script Complexity: 
+O(N^2)
