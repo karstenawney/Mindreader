@@ -2,9 +2,10 @@ import json
 import os
 import shutil
 import difflib
+from pathlib import Path
 
-DB_FILE = "akinator_prob_db.json"
-BACKUP_FILE = "akinator_prob_db.backup.json"
+DB_FILE = str(Path(__file__).resolve().parent) + "/akinator_prob_db.json"
+BACKUP_FILE = str(Path(__file__).resolve().parent) + "/akinator_prob_db.backup.json"
 
 # Internal bookkeeping keys that are NOT questions (kept in sync with akinator2.py)
 META_KEYS = {"name", "_n"}
