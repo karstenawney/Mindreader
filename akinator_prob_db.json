@@ -1,0 +1,687 @@
+[
+    {
+        "name": "Harry Potter",
+        "_n": 3,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 1.0,
+        "Does your character use magic?": 1.0,
+        "Is your character a dragon?": 0.0,
+        "Does your character have red hair?": 0.0
+    },
+    {
+        "name": "Albert Einstein",
+        "_n": 4,
+        "Is your character fictional?": 0.0,
+        "Is your character a human?": 1.0,
+        "Does your character use magic?": 0.0,
+        "Is your character a dragon?": 0.0
+    },
+    {
+        "name": "Mickey Mouse",
+        "_n": 5,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 0.0,
+        "Does your character use magic?": 0.0,
+        "Is your character from Lord of the Rings?": 0.0,
+        "Is your character a dragon?": 0.0
+    },
+    {
+        "name": "Legolas",
+        "_n": 4,
+        "Is your character a human?": 0.0,
+        "Is your character from Lord of the Rings?": 1.0,
+        "Is your character from Wings of Fire?": 0.0,
+        "Is your character a dragon?": 0.0,
+        "Is your character a hobbit?": 0.0
+    },
+    {
+        "name": "Stonemover",
+        "_n": 3,
+        "Does your character use magic?": 1.0,
+        "Is your character from Lord of the Rings?": 0.0,
+        "Is your character a dragon?": 1.0,
+        "Is your character from Wings of Fire?": 1.0,
+        "Is your character a vegetarian?": 0.0,
+        "Is your character a sandwing?": 0.0
+    },
+    {
+        "name": "Tsunami",
+        "_n": 3,
+        "Does your character use magic?": 0.0,
+        "Is your character fictional?": 1.0,
+        "Is your character from Lord of the Rings?": 0.0,
+        "Is your character a dragon?": 1.0,
+        "Is your character a human?": 0.0,
+        "Is your character a pacifist?": 0.0
+    },
+    {
+        "name": "Ron Weasley",
+        "_n": 1,
+        "Is your character a human?": 1.0,
+        "Is your character fictional?": 1.0,
+        "Is your character from Wings of Fire?": 0.0,
+        "Does your character have red hair?": 1.0
+    },
+    {
+        "name": "Bilbo Baggins",
+        "_n": 1,
+        "Does your character use magic?": 0.0,
+        "Is your character fictional?": 1.0,
+        "Is your character a dragon?": 0.0,
+        "Is your character from Lord of the Rings?": 1.0,
+        "Is your character a human?": 1.0,
+        "Is your character a hobbit?": 1.0
+    },
+    {
+        "name": "Sunny",
+        "_n": 1,
+        "Is your character from Lord of the Rings?": 0.0,
+        "Does your character use magic?": 0.0,
+        "Is your character a dragon?": 1.0,
+        "Is your character a hobbit?": 0.0,
+        "Is your character a pacifist?": 1.0,
+        "Is your character a vegetarian?": 1.0
+    },
+    {
+        "name": "Hermione Granger",
+        "_n": 2,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 1.0,
+        "Does your character use magic?": 1.0,
+        "Is your character male?": 0.0,
+        "Is your character from Harry Potter?": 1.0
+    },
+    {
+        "name": "Lord Voldemort",
+        "_n": 2,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 1.0,
+        "Does your character use magic?": 1.0,
+        "Is your character a villain?": 1.0,
+        "Is your character from Harry Potter?": 1.0
+    },
+    {
+        "name": "Frodo Baggins",
+        "_n": 2,
+        "Is your character fictional?": 1.0,
+        "Is your character from Lord of the Rings?": 1.0,
+        "Is your character a hobbit?": 1.0,
+        "Does your character use magic?": 0.0,
+        "Is your character a villain?": 0.0
+    },
+    {
+        "name": "Gandalf",
+        "_n": 3,
+        "Is your character fictional?": 1.0,
+        "Is your character from Lord of the Rings?": 1.0,
+        "Does your character use magic?": 1.0,
+        "Is your character a human?": 0.0,
+        "Is your character royalty?": 0.0
+    },
+    {
+        "name": "Gollum",
+        "_n": 1,
+        "Is your character fictional?": 1.0,
+        "Is your character from Lord of the Rings?": 1.0,
+        "Is your character a hobbit?": 0.0,
+        "Is your character a villain?": 0.0,
+        "Is your character a human?": 0.0
+    },
+    {
+        "name": "Aragorn",
+        "_n": 2,
+        "Is your character fictional?": 1.0,
+        "Is your character from Lord of the Rings?": 1.0,
+        "Is your character a human?": 1.0,
+        "Is your character royalty?": 1.0,
+        "Does your character wield a sword?": 1.0
+    },
+    {
+        "name": "Clearsight",
+        "_n": 2,
+        "Is your character from Wings of Fire?": 1.0,
+        "Is your character a dragon?": 1.0,
+        "Does your character use magic?": 1.0,
+        "Is your character a pacifist?": 1.0,
+        "Is your character male?": 0.0,
+        "Is your character a Sandwing?": 0.0
+    },
+    {
+        "name": "Glory",
+        "_n": 3,
+        "Is your character from Wings of Fire?": 1.0,
+        "Is your character a dragon?": 1.0,
+        "Does your character use magic?": 0.0,
+        "Is your character male?": 0.0,
+        "Is your character a pacifist?": 0.25,
+        "Is your character a human?": 0.0,
+        "Is your character a villain?": 0.0,
+        "Is your character from Lord of the Rings?": 0.0,
+        "Is your character fictional?": 1.0,
+        "Is your character a hobbit?": 0.0,
+        "Does your character have superpowers?": 0.0,
+        "Is your character royalty?": 1.0,
+        "Is your character a superhero?": 0.0,
+        "Is your character from a video game?": 0.0,
+        "Does your character wear a cape?": 0.0,
+        "Is your character a sandwing?": 0.0
+    },
+    {
+        "name": "Starflight",
+        "_n": 3,
+        "Is your character from Wings of Fire?": 1.0,
+        "Is your character a dragon?": 1.0,
+        "Does your character use magic?": 0.0,
+        "Is your character male?": 1.0,
+        "Is your character a pacifist?": 1.0,
+        "Is your character a villain?": 0.0,
+        "Is your character a human?": 0.0,
+        "Is your character from Lord of the Rings?": 0.0,
+        "Is your character fictional?": 1.0,
+        "Is your character a hobbit?": 0.0,
+        "Is your character royalty?": 0.0,
+        "Is your character from a video game?": 0.0,
+        "Is your character from a Disney movie?": 0.0,
+        "Is your character a robot?": 0.0,
+        "Is your character from a TV show?": 0.0,
+        "Does your character have superpowers?": 0.0,
+        "Is your character an alien?": 0.0
+    },
+    {
+        "name": "Darth Vader",
+        "_n": 3,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 1.0,
+        "Is your character from Star Wars?": 1.0,
+        "Is your character a villain?": 1.0,
+        "Does your character wield a sword?": 1.0,
+        "Is your character a robot?": 0.0
+    },
+    {
+        "name": "Luke Skywalker",
+        "_n": 2,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 1.0,
+        "Is your character from Star Wars?": 1.0,
+        "Is your character a villain?": 0.0,
+        "Does your character wield a sword?": 1.0
+    },
+    {
+        "name": "Yoda",
+        "_n": 2,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 0.0,
+        "Is your character from Star Wars?": 1.0,
+        "Does your character use magic?": 1.0,
+        "Is your character a villain?": 0.0
+    },
+    {
+        "name": "Princess Leia",
+        "_n": 2,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 1.0,
+        "Is your character from Star Wars?": 1.0,
+        "Is your character royalty?": 1.0,
+        "Is your character male?": 0.0,
+        "Does your character use magic?": 0.0,
+        "Is your character a dragon?": 0.0,
+        "Is your character a villain?": 0.0,
+        "Is your character from Lord of the Rings?": 0.0,
+        "Is your character a hobbit?": 0.0,
+        "Does your character have superpowers?": 0.0,
+        "Is your character from Wings of Fire?": 0.0,
+        "Is your character a superhero?": 0.0,
+        "Is your character a pacifist?": 0.0,
+        "Is your character from a video game?": 0.0,
+        "Is your character a robot?": 0.0
+    },
+    {
+        "name": "R2-D2",
+        "_n": 1,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 0.0,
+        "Is your character from Star Wars?": 1.0,
+        "Is your character a robot?": 1.0,
+        "Is your character male?": 0.0
+    },
+    {
+        "name": "Spider-Man",
+        "_n": 4,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 1.0,
+        "Is your character a superhero?": 1.0,
+        "Does your character wear a cape?": 0.0,
+        "Does your character have superpowers?": 1.0
+    },
+    {
+        "name": "Superman",
+        "_n": 5,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 0.2,
+        "Is your character a superhero?": 1.0,
+        "Does your character wear a cape?": 1.0,
+        "Is your character an alien?": 1.0,
+        "Is your character male?": 1.0,
+        "Is your character a villain?": 0.0,
+        "Does your character use magic?": 1.0,
+        "Is your character from Lord of the Rings?": 0.0,
+        "Is your character royalty?": 0.0,
+        "Is your character a dragon?": 0.0,
+        "Is your character from a video game?": 1.0,
+        "Is your character from a Disney movie?": 0.0,
+        "Is your character from a TV show?": 1.0,
+        "Is your character a hobbit?": 0.0,
+        "Is your character a robot?": 0.0,
+        "Does your character have superpowers?": 1.0,
+        "Is your character from Wings of Fire?": 0.0
+    },
+    {
+        "name": "Batman",
+        "_n": 4,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 1.0,
+        "Is your character a superhero?": 1.0,
+        "Does your character wear a cape?": 1.0,
+        "Does your character have superpowers?": 0.0
+    },
+    {
+        "name": "Wonder Woman",
+        "_n": 2,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 0.0,
+        "Is your character a superhero?": 1.0,
+        "Is your character male?": 0.0,
+        "Is your character royalty?": 1.0
+    },
+    {
+        "name": "Iron Man",
+        "_n": 3,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 1.0,
+        "Is your character a superhero?": 1.0,
+        "Is your character a robot?": 0.0,
+        "Does your character have superpowers?": 0.0
+    },
+    {
+        "name": "Thanos",
+        "_n": 2,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 0.0,
+        "Is your character a villain?": 1.0,
+        "Is your character an alien?": 1.0,
+        "Does your character have superpowers?": 1.0
+    },
+    {
+        "name": "Elsa",
+        "_n": 3,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 1.0,
+        "Is your character from a Disney movie?": 1.0,
+        "Is your character royalty?": 1.0,
+        "Does your character use magic?": 1.0,
+        "Is your character male?": 0.0
+    },
+    {
+        "name": "Simba",
+        "_n": 2,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 0.0,
+        "Is your character from a Disney movie?": 1.0,
+        "Is your character royalty?": 1.0,
+        "Is your character male?": 1.0
+    },
+    {
+        "name": "Ariel",
+        "_n": 1,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 0.0,
+        "Is your character from a Disney movie?": 1.0,
+        "Is your character royalty?": 1.0,
+        "Is your character male?": 0.0
+    },
+    {
+        "name": "Woody",
+        "_n": 1,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 0.0,
+        "Is your character from a Disney movie?": 1.0,
+        "Is your character male?": 1.0,
+        "Is your character a robot?": 0.0
+    },
+    {
+        "name": "Buzz Lightyear",
+        "_n": 1,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 0.0,
+        "Is your character from a Disney movie?": 1.0,
+        "Is your character male?": 1.0,
+        "Is your character a robot?": 1.0
+    },
+    {
+        "name": "Shrek",
+        "_n": 2,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 0.0,
+        "Is your character male?": 1.0,
+        "Is your character a villain?": 0.0,
+        "Is your character from a Disney movie?": 0.0
+    },
+    {
+        "name": "Mario",
+        "_n": 3,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 1.0,
+        "Is your character from a video game?": 1.0,
+        "Is your character male?": 1.0,
+        "Is your character a villain?": 0.0
+    },
+    {
+        "name": "Bowser",
+        "_n": 2,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 0.0,
+        "Is your character from a video game?": 1.0,
+        "Is your character a villain?": 1.0,
+        "Is your character a dragon?": 0.0
+    },
+    {
+        "name": "Link",
+        "_n": 2,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 1.0,
+        "Is your character from a video game?": 1.0,
+        "Does your character wield a sword?": 1.0,
+        "Is your character male?": 1.0
+    },
+    {
+        "name": "Pikachu",
+        "_n": 3,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 0.0,
+        "Is your character from a video game?": 1.0,
+        "Does your character have superpowers?": 1.0,
+        "Is your character a villain?": 0.0
+    },
+    {
+        "name": "Sonic the Hedgehog",
+        "_n": 2,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 0.0,
+        "Is your character from a video game?": 1.0,
+        "Is your character male?": 1.0,
+        "Is your character a villain?": 0.0
+    },
+    {
+        "name": "Master Chief",
+        "_n": 1,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 1.0,
+        "Is your character from a video game?": 1.0,
+        "Is your character a robot?": 0.0,
+        "Is your character male?": 1.0
+    },
+    {
+        "name": "Sherlock Holmes",
+        "_n": 2,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 1.0,
+        "Is your character from a book?": 1.0,
+        "Does your character use magic?": 0.0,
+        "Is your character male?": 1.0
+    },
+    {
+        "name": "Dracula",
+        "_n": 2,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 0.0,
+        "Is your character from a book?": 1.0,
+        "Is your character a villain?": 1.0,
+        "Does your character use magic?": 1.0
+    },
+    {
+        "name": "Frankenstein's Monster",
+        "_n": 1,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 0.0,
+        "Is your character from a book?": 1.0,
+        "Is your character a villain?": 0.0,
+        "Is your character a robot?": 0.0
+    },
+    {
+        "name": "Alice",
+        "_n": 1,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 1.0,
+        "Is your character from a book?": 1.0,
+        "Is your character male?": 0.0,
+        "Is your character a child?": 1.0
+    },
+    {
+        "name": "Peter Pan",
+        "_n": 1,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 1.0,
+        "Is your character from a Disney movie?": 1.0,
+        "Is your character a child?": 1.0,
+        "Is your character male?": 1.0
+    },
+    {
+        "name": "Walter White",
+        "_n": 1,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 1.0,
+        "Is your character from a TV show?": 1.0,
+        "Is your character a villain?": 1.0,
+        "Is your character male?": 1.0
+    },
+    {
+        "name": "Homer Simpson",
+        "_n": 2,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 1.0,
+        "Is your character from a TV show?": 1.0,
+        "Is your character male?": 1.0,
+        "Is your character a villain?": 0.0
+    },
+    {
+        "name": "Daenerys Targaryen",
+        "_n": 2,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 1.0,
+        "Is your character from a TV show?": 1.0,
+        "Is your character royalty?": 1.0,
+        "Is your character male?": 0.0,
+        "Is your character a dragon?": 0.0
+    },
+    {
+        "name": "Jon Snow",
+        "_n": 1,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 1.0,
+        "Is your character from a TV show?": 1.0,
+        "Does your character wield a sword?": 1.0,
+        "Is your character male?": 1.0
+    },
+    {
+        "name": "Smaug",
+        "_n": 2,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 0.0,
+        "Is your character a dragon?": 1.0,
+        "Is your character from Lord of the Rings?": 0.0,
+        "Is your character a villain?": 1.0
+    },
+    {
+        "name": "Toothless",
+        "_n": 2,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 0.0,
+        "Is your character a dragon?": 1.0,
+        "Is your character a villain?": 0.0,
+        "Does your character use magic?": 0.0
+    },
+    {
+        "name": "Napoleon Bonaparte",
+        "_n": 1,
+        "Is your character fictional?": 0.0,
+        "Is your character a human?": 1.0,
+        "Is your character royalty?": 1.0,
+        "Is your character male?": 1.0,
+        "Does your character use magic?": 0.0
+    },
+    {
+        "name": "Cleopatra",
+        "_n": 1,
+        "Is your character fictional?": 0.0,
+        "Is your character a human?": 1.0,
+        "Is your character royalty?": 1.0,
+        "Is your character male?": 0.0,
+        "Does your character use magic?": 0.0
+    },
+    {
+        "name": "Abraham Lincoln",
+        "_n": 1,
+        "Is your character fictional?": 0.0,
+        "Is your character a human?": 1.0,
+        "Is your character royalty?": 0.0,
+        "Is your character male?": 1.0,
+        "Is your character an adult?": 1.0
+    },
+    {
+        "name": "Marie Curie",
+        "_n": 1,
+        "Is your character fictional?": 0.0,
+        "Is your character a human?": 1.0,
+        "Is your character male?": 0.0,
+        "Does your character use magic?": 0.0,
+        "Is your character an adult?": 1.0
+    },
+    {
+        "name": "Leonardo da Vinci",
+        "_n": 1,
+        "Is your character fictional?": 0.0,
+        "Is your character a human?": 1.0,
+        "Is your character male?": 1.0,
+        "Does your character use magic?": 0.0,
+        "Is your character royalty?": 0.0
+    },
+    {
+        "name": "William Shakespeare",
+        "_n": 1,
+        "Is your character fictional?": 0.0,
+        "Is your character a human?": 1.0,
+        "Is your character male?": 1.0,
+        "Is your character royalty?": 0.0,
+        "Is your character an adult?": 1.0
+    },
+    {
+        "name": "Winnie the Pooh",
+        "_n": 2,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 0.0,
+        "Is your character from a Disney movie?": 1.0,
+        "Is your character a villain?": 0.0,
+        "Is your character male?": 1.0
+    },
+    {
+        "name": "Scooby-Doo",
+        "_n": 1,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 0.0,
+        "Is your character from a TV show?": 1.0,
+        "Is your character a villain?": 0.0,
+        "Is your character male?": 1.0
+    },
+    {
+        "name": "SpongeBob SquarePants",
+        "_n": 2,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 0.0,
+        "Is your character from a TV show?": 1.0,
+        "Is your character male?": 1.0,
+        "Is your character an animal?": 0.0
+    },
+    {
+        "name": "Ash Ketchum",
+        "_n": 1,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 1.0,
+        "Is your character from a video game?": 0.0,
+        "Is your character from a TV show?": 1.0,
+        "Is your character a child?": 1.0
+    },
+    {
+        "name": "Katniss Everdeen",
+        "_n": 1,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 1.0,
+        "Is your character from a book?": 1.0,
+        "Is your character male?": 0.0,
+        "Does your character use magic?": 0.0
+    },
+    {
+        "name": "Percy Jackson",
+        "_n": 1,
+        "Is your character fictional?": 1.0,
+        "Is your character a human?": 1.0,
+        "Is your character from a book?": 1.0,
+        "Does your character use magic?": 1.0,
+        "Is your character male?": 1.0
+    },
+    {
+        "name": "Deathbringer",
+        "_n": 1,
+        "Is your character from Wings of Fire?": 1.0,
+        "Is your character a dragon?": 1.0,
+        "Is your character a villain?": 1.0,
+        "Does your character use magic?": 0.0,
+        "Is your character male?": 1.0
+    },
+    {
+        "name": "Fatespeaker",
+        "_n": 1,
+        "Is your character from Wings of Fire?": 1.0,
+        "Is your character a dragon?": 1.0,
+        "Is your character a villain?": 0.0,
+        "Does your character use magic?": 0.0,
+        "Is your character male?": 0.0
+    },
+    {
+        "name": "Samwise Gamgee",
+        "_n": 1,
+        "Is your character fictional?": 1.0,
+        "Is your character from Lord of the Rings?": 1.0,
+        "Is your character a hobbit?": 1.0,
+        "Does your character use magic?": 0.0,
+        "Is your character a villain?": 0.0
+    },
+    {
+        "name": "Sauron",
+        "_n": 2,
+        "Is your character fictional?": 1.0,
+        "Is your character from Lord of the Rings?": 1.0,
+        "Is your character a human?": 0.0,
+        "Is your character a villain?": 1.0,
+        "Does your character use magic?": 1.0
+    },
+    {
+        "name": "Jerboa III",
+        "_n": 1,
+        "Is your character male?": 0.0,
+        "Does your character use magic?": 1.0,
+        "Is your character a villain?": 0.0,
+        "Is your character a human?": 0.0,
+        "Is your character a dragon?": 1.0,
+        "Is your character from Lord of the Rings?": 0.0,
+        "Is your character royalty?": 0.0,
+        "Does your character have superpowers?": 1.0,
+        "Is your character from Wings of Fire?": 1.0,
+        "Is your character fictional?": 1.0,
+        "Is your character a superhero?": 0.0,
+        "Is your character from a video game?": 0.0,
+        "Is your character from a book?": 1.0,
+        "Is your character from Star Wars?": 0.0,
+        "Does your character wear a cape?": 0.0,
+        "Is your character a Sandwing?": 1.0
+    }
+]
