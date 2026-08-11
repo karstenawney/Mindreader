@@ -1,13 +1,16 @@
 [
     {
         "name": "Harry Potter",
-        "_n": 8,
+        "_n": 10,
         "Are they a human?": 1.0,
         "Do they use magic?": 1.0,
         "Are they a dragon?": 0.0,
         "Do they have red hair?": 0.0,
         "Are they an adult?": 0.0,
-        "Are they from Star Wars?": 0.0
+        "Are they from Star Wars?": 0.0,
+        "Are they from Lord of the Rings?": 0.0,
+        "Are they tall?": 1.0,
+        "Are they a hobbit?": 0.0
     },
     {
         "name": "Mickey Mouse",
@@ -38,7 +41,7 @@
     },
     {
         "name": "Tsunami",
-        "_n": 4,
+        "_n": 5,
         "Do they use magic?": 0.0,
         "Are they from Lord of the Rings?": 0.0,
         "Are they a dragon?": 1.0,
@@ -52,7 +55,8 @@
         "Are they from Star Wars?": 0.0,
         "Are their scales golden?": 0.0,
         "Are they an adult?": 1.0,
-        "Are they tall?": 1.0
+        "Are they tall?": 1.0,
+        "Are they alive?": 1.0
     },
     {
         "name": "Ron Weasley",
@@ -66,13 +70,22 @@
     },
     {
         "name": "Bilbo Baggins",
-        "_n": 2,
+        "_n": 3,
         "Do they use magic?": 0.0,
         "Are they a dragon?": 0.0,
         "Are they from Lord of the Rings?": 1.0,
         "Are they a human?": 1.0,
         "Are they a hobbit?": 1.0,
-        "Are they tall?": 0.0
+        "Are they tall?": 0.0,
+        "Do they have red hair?": 0.0,
+        "Are they from Star Wars?": 0.0,
+        "Are they an adult?": 1.0,
+        "Are they a vegetarian?": 0.0,
+        "Are they alive?": 1.0,
+        "Are they from Wings of Fire?": 0.0,
+        "Are they a pacifist?": 0.0,
+        "Do they have blue scales?": 0.0,
+        "Are their scales golden?": 0.0
     },
     {
         "name": "Sunny",
