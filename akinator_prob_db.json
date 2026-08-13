@@ -1,7 +1,7 @@
 [
     {
         "name": "Harry Potter",
-        "_n": 10,
+        "_n": 13,
         "Are they a human?": 1.0,
         "Do they use magic?": 1.0,
         "Are they a dragon?": 0.0,
@@ -9,12 +9,18 @@
         "Are they an adult?": 0.0,
         "Are they from Star Wars?": 0.0,
         "Are they from Lord of the Rings?": 0.0,
-        "Are they tall?": 1.0,
-        "Are they a hobbit?": 0.0
+        "Are they tall?": 0.9230769230769231,
+        "Are they a hobbit?": 0.0,
+        "Are they from Wings of Fire?": 0.0,
+        "Are they in a prophecy?": 1.0,
+        "Are they alive?": 1.0,
+        "Are their scales golden?": 0.0,
+        "Do they have blue scales?": 0.0,
+        "Are they a queen?": 0.0
     },
     {
         "name": "Mickey Mouse",
-        "_n": 5,
+        "_n": 6,
         "Are they a human?": 0.0,
         "Do they use magic?": 0.0,
         "Are they from Lord of the Rings?": 0.0,
@@ -31,17 +37,21 @@
     },
     {
         "name": "Stonemover",
-        "_n": 3,
+        "_n": 7,
         "Do they use magic?": 1.0,
         "Are they from Lord of the Rings?": 0.0,
         "Are they a dragon?": 1.0,
         "Are they from Wings of Fire?": 1.0,
         "Are they a vegetarian?": 0.0,
-        "Do they have blue scales?": 0.0
+        "Do they have blue scales?": 0.0,
+        "Are they in a prophecy?": 0.0,
+        "Are they a human?": 0.0,
+        "Are they from Star Wars?": 0.0,
+        "Are they a rainwing?": 0.0
     },
     {
         "name": "Tsunami",
-        "_n": 5,
+        "_n": 6,
         "Do they use magic?": 0.0,
         "Are they from Lord of the Rings?": 0.0,
         "Are they a dragon?": 1.0,
@@ -56,22 +66,27 @@
         "Are their scales golden?": 0.0,
         "Are they an adult?": 1.0,
         "Are they tall?": 1.0,
-        "Are they alive?": 1.0
+        "Are they alive?": 1.0,
+        "Are they a nightwing?": 0.0
     },
     {
         "name": "Ron Weasley",
-        "_n": 5,
+        "_n": 7,
         "Are they a human?": 1.0,
         "Are they from Wings of Fire?": 0.0,
         "Do they have red hair?": 1.0,
         "Are they from Star Wars?": 0.0,
         "Are they a dragon?": 0.0,
-        "Are they alive?": 0.0
+        "Are they alive?": 0.2857142857142857,
+        "Do they use magic?": 1.0,
+        "Are they a pacifist?": 0.0,
+        "Are they an adult?": 0.0,
+        "Are they a nightwing?": 0.0
     },
     {
         "name": "Bilbo Baggins",
-        "_n": 3,
-        "Do they use magic?": 0.0,
+        "_n": 4,
+        "Do they use magic?": 0.25,
         "Are they a dragon?": 0.0,
         "Are they from Lord of the Rings?": 1.0,
         "Are they a human?": 1.0,
@@ -85,17 +100,25 @@
         "Are they from Wings of Fire?": 0.0,
         "Are they a pacifist?": 0.0,
         "Do they have blue scales?": 0.0,
-        "Are their scales golden?": 0.0
+        "Are their scales golden?": 0.0,
+        "Are they in a prophecy?": 0.0
     },
     {
         "name": "Sunny",
-        "_n": 1,
+        "_n": 5,
         "Are they from Lord of the Rings?": 0.0,
         "Do they use magic?": 0.0,
         "Are they a dragon?": 1.0,
         "Are they a hobbit?": 0.0,
         "Are they a pacifist?": 1.0,
-        "Are they a vegetarian?": 1.0
+        "Are they a vegetarian?": 1.0,
+        "Are they from Wings of Fire?": 1.0,
+        "Are they in a prophecy?": 1.0,
+        "Are they from Star Wars?": 0.0,
+        "Are they an adult?": 0.0,
+        "Do they have red hair?": 0.0,
+        "Are they a queen?": 0.0,
+        "Are they a rainwing?": 0.0
     },
     {
         "name": "Aragorn",
@@ -146,5 +169,31 @@
         "Are they from Lord of the Rings?": 0.0,
         "Are their scales golden?": 1.0,
         "Are they alive?": 0.0
+    },
+    {
+        "name": "Starflight",
+        "_n": 1,
+        "Are they a human?": 0.0,
+        "Are they from Wings of Fire?": 1.0,
+        "Are they a nightwing?": 1.0,
+        "Are they a dragon?": 1.0,
+        "Are they in a prophecy?": 1.0
+    },
+    {
+        "name": "Glory",
+        "_n": 3,
+        "Are they from Wings of Fire?": 1.0,
+        "Are they an adult?": 0.0,
+        "Are they tall?": 1.0,
+        "Are they a queen?": 1.0,
+        "Are they a dragon?": 1.0,
+        "Are they a rainwing?": 1.0,
+        "Do they use magic?": 0.0,
+        "Are they a nightwing?": 0.0,
+        "Are they a human?": 0.0,
+        "Are they in a prophecy?": 1.0,
+        "Are they a vegetarian?": 0.0,
+        "Do they have blue scales?": 0.0,
+        "Are they from Lord of the Rings?": 0.0
     }
 ]
