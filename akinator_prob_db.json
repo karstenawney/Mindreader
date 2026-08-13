@@ -105,7 +105,7 @@
     },
     {
         "name": "Sunny",
-        "_n": 5,
+        "_n": 6,
         "Are they from Lord of the Rings?": 0.0,
         "Do they use magic?": 0.0,
         "Are they a dragon?": 1.0,
@@ -118,7 +118,8 @@
         "Are they an adult?": 0.0,
         "Do they have red hair?": 0.0,
         "Are they a queen?": 0.0,
-        "Are they a rainwing?": 0.0
+        "Are they a rainwing?": 0.0,
+        "Are they a mudwing?": 0.0
     },
     {
         "name": "Aragorn",
@@ -172,16 +173,17 @@
     },
     {
         "name": "Starflight",
-        "_n": 1,
+        "_n": 2,
         "Are they a human?": 0.0,
         "Are they from Wings of Fire?": 1.0,
         "Are they a nightwing?": 1.0,
         "Are they a dragon?": 1.0,
-        "Are they in a prophecy?": 1.0
+        "Are they in a prophecy?": 1.0,
+        "Are they a mudwing?": 0.0
     },
     {
         "name": "Glory",
-        "_n": 3,
+        "_n": 4,
         "Are they from Wings of Fire?": 1.0,
         "Are they an adult?": 0.0,
         "Are they tall?": 1.0,
@@ -194,6 +196,27 @@
         "Are they in a prophecy?": 1.0,
         "Are they a vegetarian?": 0.0,
         "Do they have blue scales?": 0.0,
-        "Are they from Lord of the Rings?": 0.0
+        "Are they from Lord of the Rings?": 0.0,
+        "Are they a mudwing?": 0.0
+    },
+    {
+        "name": "Clay",
+        "_n": 2,
+        "Are they an adult?": 0.0,
+        "Are they from Wings of Fire?": 1.0,
+        "Are they in a prophecy?": 1.0,
+        "Are they a human?": 0.0,
+        "Do they use magic?": 0.0,
+        "Do they have blue scales?": 0.0,
+        "Are they from Star Wars?": 0.0,
+        "Are they a mudwing?": 1.0,
+        "Are they a dragon?": 1.0,
+        "Are they a vegetarian?": 0.0,
+        "Are they a queen?": 0.0,
+        "Are their scales golden?": 0.0,
+        "Are they a rainwing?": 0.0,
+        "Are they alive?": 1.0,
+        "Are they a pacifist?": 0.0,
+        "Are they a nightwing?": 0.0
     }
 ]
